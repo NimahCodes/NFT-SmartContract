@@ -1,0 +1,24 @@
+{
+    "description": "Love Is A Beautiful Thing!",
+    "external_url": "https://twitter.com/NimahCodes",
+    "image": "https://gateway.pinata.cloud/ipfs/QmeuwDrkkgiFtAoLvCA1qRLhMb9hgUHuQfq14qZm2BeMCu",
+    "name": "Folakemi Umar",
+    "attributes": [
+      {
+        "trait_type": "Gender",
+        "value": "Female"
+      },
+      {
+        "trait_type": "Course",
+        "value": "Web3Bridge Cohort VII"
+      },
+      {
+        "trait_type": "Token Standard",
+        "value": "ERC721"
+      },
+      {
+        "trait_type": "Date",
+        "value": "19th August, 2022"
+      }
+    ]
+  }
